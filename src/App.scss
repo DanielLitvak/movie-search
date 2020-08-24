@@ -1,0 +1,25 @@
+@import "reset";
+
+.App {
+  background-color: #121212;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-size: 50rem;
+}
+
+.movies-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(512px, 1fr));
+  width: 80%;
+}
+
+.movie-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
