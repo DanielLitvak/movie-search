@@ -12,6 +12,7 @@ This project was made to practice React.
 - If CORS header 'Access-Control-Allow-Origin' missing then you need a CORS proxy.
 - Web scraping with Xpath using `document.evaluate()`.
 - How to make CSS grid responsive with `grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));`.
+- How to upload to github pages using [gh-pages](https://www.npmjs.com/package/gh-pages).
 
 ## How to run
 
